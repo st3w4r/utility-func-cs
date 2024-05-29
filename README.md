@@ -1,4 +1,4 @@
-# CodeStory - Utlity functions
+# CodeStory - Utility functions
 
 Project:
 - Discover as fast as possible utility functions in a codebase
